@@ -1,6 +1,6 @@
-# Hi, I'm Tokee Studios 👋
+# Hi there 👋
 
-I design my own tools for Windows and build them with the help of AI.
+I'm the owner of **Tokee Studios**, where I design my own Windows tools and build them with the help of AI.
 
 ### 🛠️ What I make
 - **Cortex** — a workflow tool for video editors *(private)*
